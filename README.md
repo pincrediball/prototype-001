@@ -9,4 +9,4 @@ Check out [the related devlog on pincrediball.com](https://www.pincrediball.com/
 
 Here's a quick screen recording from abovementioned devlog that shows how this prototype worked:
 
-![screen recording of a crude pinball machine](https://www.pincrediball.com/img/pincrediball-prototype-001.webm)
+![screen recording of a crude pinball machine](https://www.pincrediball.com/img/pincrediball-prototype-001.mp4)
